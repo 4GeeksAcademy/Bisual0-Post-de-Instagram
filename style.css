@@ -1,3 +1,13 @@
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+"wdth" 100;
+}
+
+
 body{
     background-color: black;
     display: flex;
@@ -16,7 +26,6 @@ p, span{
     display: flex;
     flex-direction: column;
     margin-top: 50px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .fa-html5{
